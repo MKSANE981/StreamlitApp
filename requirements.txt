@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib.pyplot
+plotly.graph_objects
+datetime
+Image
+st_pages
+seaborn

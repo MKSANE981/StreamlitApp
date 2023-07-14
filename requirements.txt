@@ -8,3 +8,4 @@ datetime
 Image
 st_pages
 seaborn
+matplotlib.pyplot

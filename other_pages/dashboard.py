@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import datetime
 from PIL import Image
+import st_pages
+from st_pages import Page, show_pages, add_page_title
+
 ensae=Image.open('ensae.png')
 st.set_page_config(page_title="ENSAE - Mansour Kama SANE", page_icon=ensae, layout="wide")
 st.set_option('deprecation.showPyplotGlobalUse', False)

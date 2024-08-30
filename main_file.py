@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import datetime
 from PIL import Image
+import st_pages
 from st_pages import Page, show_pages, add_page_title
 
 # Optional -- adds the title and icon to the current page

@@ -8,4 +8,7 @@ datetime
 Image
 st_pages
 seaborn
+Page
+show_pages
+add_page_title
 pandas_profiling

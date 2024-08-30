@@ -5,6 +5,7 @@ import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
 from PIL import Image
+from st_pages import Page, show_pages, add_page_title
 
 import statistics as stat
 ensae=Image.open('ensae.png')
